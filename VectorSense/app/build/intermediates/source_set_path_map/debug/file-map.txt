@@ -1,0 +1,42 @@
+com.example.vectorsense.app-viewpager2-1.0.0-0 C:\Users\hp\.gradle\caches\transforms-3\0767b384934a0aa08e24e45f7f33c1cb\transformed\viewpager2-1.0.0\res
+com.example.vectorsense.app-lifecycle-viewmodel-savedstate-2.6.1-1 C:\Users\hp\.gradle\caches\transforms-3\10a2134bc20098ac7527a78c182eebcb\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.vectorsense.app-coordinatorlayout-1.1.0-2 C:\Users\hp\.gradle\caches\transforms-3\13a2e32e5cae0f9c90b52ec0552ba6fd\transformed\coordinatorlayout-1.1.0\res
+com.example.vectorsense.app-ads-adservices-java-1.0.0-beta05-3 C:\Users\hp\.gradle\caches\transforms-3\1ca14267d95818c664d2999068e3275d\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.vectorsense.app-emoji2-1.2.0-4 C:\Users\hp\.gradle\caches\transforms-3\27577e3b4d73dd4aeb98143e580ec451\transformed\emoji2-1.2.0\res
+com.example.vectorsense.app-savedstate-1.2.1-5 C:\Users\hp\.gradle\caches\transforms-3\352094df7ddc22b099748cc15ee22a14\transformed\savedstate-1.2.1\res
+com.example.vectorsense.app-activity-1.8.0-6 C:\Users\hp\.gradle\caches\transforms-3\446ec7989c66d6a3c44dbdfca428631a\transformed\activity-1.8.0\res
+com.example.vectorsense.app-recyclerview-1.1.0-7 C:\Users\hp\.gradle\caches\transforms-3\4c750dbce8926471996f9cddcd81ee37\transformed\recyclerview-1.1.0\res
+com.example.vectorsense.app-drawerlayout-1.1.1-8 C:\Users\hp\.gradle\caches\transforms-3\66a1ff2a5d85d65d4e58f37e37c870a1\transformed\drawerlayout-1.1.1\res
+com.example.vectorsense.app-lifecycle-livedata-2.6.1-9 C:\Users\hp\.gradle\caches\transforms-3\77d0f25954765673066b295b6248b9f5\transformed\lifecycle-livedata-2.6.1\res
+com.example.vectorsense.app-startup-runtime-1.1.1-10 C:\Users\hp\.gradle\caches\transforms-3\830139fc10b3ed7b3d9f6064357e0cd2\transformed\startup-runtime-1.1.1\res
+com.example.vectorsense.app-emoji2-views-helper-1.2.0-11 C:\Users\hp\.gradle\caches\transforms-3\87ce377df89fe67fd7212cd7c6685204\transformed\emoji2-views-helper-1.2.0\res
+com.example.vectorsense.app-cardview-1.0.0-12 C:\Users\hp\.gradle\caches\transforms-3\8cc68b58a43c51875666d64605295554\transformed\cardview-1.0.0\res
+com.example.vectorsense.app-core-ktx-1.9.0-13 C:\Users\hp\.gradle\caches\transforms-3\976813c4cd7547eac717055cd001d255\transformed\core-ktx-1.9.0\res
+com.example.vectorsense.app-appcompat-resources-1.6.1-14 C:\Users\hp\.gradle\caches\transforms-3\992dd0decafe80b6d04f4054e0cfadfa\transformed\appcompat-resources-1.6.1\res
+com.example.vectorsense.app-ads-adservices-1.0.0-beta05-15 C:\Users\hp\.gradle\caches\transforms-3\9e2604aaa374fb6cabc0b461eef7b1bf\transformed\ads-adservices-1.0.0-beta05\res
+com.example.vectorsense.app-constraintlayout-2.1.4-16 C:\Users\hp\.gradle\caches\transforms-3\9fd20e6bd38878c714c66ba99e5836d3\transformed\constraintlayout-2.1.4\res
+com.example.vectorsense.app-fragment-1.3.6-17 C:\Users\hp\.gradle\caches\transforms-3\ab6d889a28c3024a39b9cb73b8d9a46c\transformed\fragment-1.3.6\res
+com.example.vectorsense.app-lifecycle-process-2.6.1-18 C:\Users\hp\.gradle\caches\transforms-3\aceb5993f7d6187d827af5d28e19dd67\transformed\lifecycle-process-2.6.1\res
+com.example.vectorsense.app-lifecycle-viewmodel-2.6.1-19 C:\Users\hp\.gradle\caches\transforms-3\b42b2eee41b1a264a1082d6233c59755\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.vectorsense.app-material-1.11.0-20 C:\Users\hp\.gradle\caches\transforms-3\b4e311af6ac65b059f6aa65b570badec\transformed\material-1.11.0\res
+com.example.vectorsense.app-transition-1.2.0-21 C:\Users\hp\.gradle\caches\transforms-3\b723916e876d67e1d3560d2d2bf6803d\transformed\transition-1.2.0\res
+com.example.vectorsense.app-annotation-experimental-1.3.0-22 C:\Users\hp\.gradle\caches\transforms-3\bebf3fd17845788985c6f57f68455c89\transformed\annotation-experimental-1.3.0\res
+com.example.vectorsense.app-lifecycle-livedata-core-2.6.1-23 C:\Users\hp\.gradle\caches\transforms-3\c32c56f266cb73c95aadf59f1aedcd95\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.vectorsense.app-core-1.9.0-24 C:\Users\hp\.gradle\caches\transforms-3\c4fc61631775e3f04ac2f67e24a3ae75\transformed\core-1.9.0\res
+com.example.vectorsense.app-core-runtime-2.2.0-25 C:\Users\hp\.gradle\caches\transforms-3\d91e6ba61d42253b49736109099ed835\transformed\core-runtime-2.2.0\res
+com.example.vectorsense.app-play-services-base-18.1.0-26 C:\Users\hp\.gradle\caches\transforms-3\e08caa1cd595d740727a74fb5a00f283\transformed\play-services-base-18.1.0\res
+com.example.vectorsense.app-appcompat-1.6.1-27 C:\Users\hp\.gradle\caches\transforms-3\e102db9ac5f392a41c24d53de041be36\transformed\appcompat-1.6.1\res
+com.example.vectorsense.app-lifecycle-runtime-2.6.1-28 C:\Users\hp\.gradle\caches\transforms-3\e771f82ddfa8d6a775e37bd036ff358b\transformed\lifecycle-runtime-2.6.1\res
+com.example.vectorsense.app-profileinstaller-1.3.0-29 C:\Users\hp\.gradle\caches\transforms-3\ea383f68e714f140ef057fffa668a6a1\transformed\profileinstaller-1.3.0\res
+com.example.vectorsense.app-play-services-basement-18.3.0-30 C:\Users\hp\.gradle\caches\transforms-3\f16f7e337f306f9d61b437d3acacfb1a\transformed\play-services-basement-18.3.0\res
+com.example.vectorsense.app-firebase-common-20.4.2-31 C:\Users\hp\.gradle\caches\transforms-3\f37d42be89d21e4c1acdeffe50238d69\transformed\firebase-common-20.4.2\res
+com.example.vectorsense.app-play-services-measurement-api-21.5.1-32 C:\Users\hp\.gradle\caches\transforms-3\fa191560667d4e5bc00317c50f94c56e\transformed\play-services-measurement-api-21.5.1\res
+com.example.vectorsense.app-google-services-33 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\generated\res\google-services\debug
+com.example.vectorsense.app-pngs-34 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\generated\res\pngs\debug
+com.example.vectorsense.app-resValues-35 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\generated\res\resValues\debug
+com.example.vectorsense.app-rs-36 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\generated\res\rs\debug
+com.example.vectorsense.app-packageDebugResources-37 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.vectorsense.app-packageDebugResources-38 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.vectorsense.app-merged_res-39 F:\Research Assistant\VectorSense_v5\VectorSense\app\build\intermediates\merged_res\debug
+com.example.vectorsense.app-debug-40 F:\Research Assistant\VectorSense_v5\VectorSense\app\src\debug\res
+com.example.vectorsense.app-main-41 F:\Research Assistant\VectorSense_v5\VectorSense\app\src\main\res

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983839602979",
+    "project_id": "vectorsense-e38f1",
+    "storage_bucket": "vectorsense-e38f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983839602979:android:5329568b53b3c088cf7496",
+        "android_client_info": {
+          "package_name": "com.example.vectorsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0RCMu4H-l0DBsOlbaSInt_dwGmA9E6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">983839602979</string>
+    <string name="google_api_key" translatable="false">AIzaSyBv0RCMu4H-l0DBsOlbaSInt_dwGmA9E6Q</string>
+    <string name="google_app_id" translatable="false">1:983839602979:android:5329568b53b3c088cf7496</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBv0RCMu4H-l0DBsOlbaSInt_dwGmA9E6Q</string>
+    <string name="google_storage_bucket" translatable="false">vectorsense-e38f1.appspot.com</string>
+    <string name="project_id" translatable="false">vectorsense-e38f1</string>
+</resources>
